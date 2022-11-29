@@ -1,1 +1,1 @@
-My first readme
+Software engineering is so much fun
